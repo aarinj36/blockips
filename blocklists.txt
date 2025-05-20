@@ -9,16 +9,16 @@
 # routers and firewalls. 
 #
 # Maintainer      : NETIT4U
-# Source File Date: Fri May 18 05:15:01 UTC 2025
+# Source File Date: Tues May 20 2025
 #address	:https://textdoc.co/KV7NomgjbhrTJdxy
 #
 # Category        : attacks
 # Version         : 1
 #
-# This File Date  : Fri May 16 05:16:55 UTC 2025
+# This File Date  : Tues May 20 2025
 # Update Frequency: 1 week 
 # Aggregation     : none
-# Entries         : 4382 subnets
+# Entries         : 2054 subnets
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
